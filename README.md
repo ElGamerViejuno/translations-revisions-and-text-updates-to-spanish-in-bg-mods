@@ -1,5 +1,5 @@
 # TRANSLATIONS, REVISIONS AND TEXT UPDATES TO SPANISH IN BALDUR'S GATE SAGA MODS
-A compilation of all my translations, revisions and text updates in Baldur's Gate mods (and Siege of Dragonspear expansion).
+A compilation of all my translations, revisions and text updates into spanish in Baldur's Gate mods (and Siege of Dragonspear expansion).
 
 ## FULL TRANSLATIONS COMPLETED
 - The_Boareskyr_Bridge_Scene_v5_SPANISH_translation.rar
