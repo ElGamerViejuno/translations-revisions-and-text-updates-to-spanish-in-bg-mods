@@ -11,8 +11,8 @@ A compilation of all my translations, revisions and text updates into spanish in
 ## TEXT REVISIONS AND UPDATED COMPLETED
 - Skip_Chateau_Irenicus_v3.2_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-SkipChateauIrenicus)**
 - Endless_BG1_v18_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/EndlessBG1)**
-- Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar Not officially **[Not officially added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
-- BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Not officially added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
+- Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar Not officially **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
+- BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.60a BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
