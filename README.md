@@ -27,3 +27,4 @@ A compilation of all my translations, revisions and text updates into spanish in
 - The Tweaks Anthology
 - BG1 Unfinished Business
 - Unfinished Business (BG2)
+- Quest Pack (BG2)
