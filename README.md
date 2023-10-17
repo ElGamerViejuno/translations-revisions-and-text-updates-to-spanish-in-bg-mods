@@ -1,8 +1,19 @@
-# TRADUCCIONES, REVISIONES Y ACTUALIZACIONES DE TEXTOS EN MODS DE LA SAGA BALDUR'S GATE
-Un recopilatorio de todas mis traducciones, revisiones y actualizaciones de textos en mods de la saga Baldur's Gate
+# TRANSLATIONS, REVISIONS AND TEXT UPDATES TO SPANISH IN BALDUR'S GATE SAGA MODS / TRADUCCIONES, REVISIONES Y ACTUALIZACIONES DE TEXTOS AL ESPAÑOL EN MODS DE LA SAGA BALDUR'S GATE
+A compilation of all my translations, revisions and text updates in Baldur's Gate mods. / Un recopilatorio de todas mis traducciones, revisiones y actualizaciones de textos en mods de la saga Baldur's Gate.
 
-## TRADUCCIONES COMPLETAS
+## COMPLETED TRANSLATIONS / TRADUCCIONES COMPLETADAS
+- DLC_Merger_v1.4_SPANISH_translation.rar
+
+## TEXT REVISIONS AND UPDATES COMPLETED / REVISIONES Y ACTUALIZACIONES DE TEXTOS COMPLETADAS
+- BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar
+- Sword Coast Stratagems v34.3
+
+## TRANSLATIONS IN PROGRESS / TRADUCCIONES EN PROCESO
 - Traducción Siege of Dragonspear (BETA v0.60)
 
-## REVISIONES Y ACTUALIZACIONES DE TEXTOS COMPLETAS
-- 
+## REVISIONS AND UPDATES OF TEXTS IN PROGRESS / REVISIONES Y ACTUALIZACIONES DE TEXTOS EN PROCESO
+-
+
+## FUTURE PROJECTS / FUTUROS PROYECTOS
+- Ascension
+- BG1 NPC Project
