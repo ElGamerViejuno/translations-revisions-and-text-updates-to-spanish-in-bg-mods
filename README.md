@@ -25,3 +25,5 @@ A compilation of all my translations, revisions and text updates in Baldur's Gat
 - Ascension
 - BG1 NPC Project
 - The Tweaks Anthology
+- BG1 Unfinished Business
+- Unfinished Business (BG2)
