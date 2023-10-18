@@ -21,7 +21,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - ...
 
-## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE IN THE FUTURE
+## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE TO SPANISH IN THE FUTURE
 - Ascension
 - BG1 NPC Project
 - The Tweaks Anthology
