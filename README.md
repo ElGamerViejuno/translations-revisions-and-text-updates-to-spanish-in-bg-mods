@@ -16,7 +16,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.60a BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
-- win-A7-ImprovedArcher-v4.1 
+- Improved Archer Kit v4.1 [Not added to the mod](https://github.com/Argent77/A7-ImprovedArcher)
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - ...
