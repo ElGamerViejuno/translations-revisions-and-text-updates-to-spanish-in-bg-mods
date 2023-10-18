@@ -21,10 +21,10 @@ A compilation of all my translations, revisions and text updates into spanish in
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - ...
 
-## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE TO SPANISH IN THE FUTURE
-- Ascension
-- BG1 NPC Project
-- The Tweaks Anthology
-- BG1 Unfinished Business
-- Unfinished Business (BG2)
-- Quest Pack (BG2)
+## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
+- [Ascension](https://github.com/InfinityMods/Ascension)
+- [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
+- [The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)
+- [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
+- [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
+- [Quest Pack (BG2)](https://www.pocketplane.net/quest-pack/)
