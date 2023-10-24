@@ -7,6 +7,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Another_Fine_Hell_Version_ALPHA_230415_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Another_Fine_Hell)**
 - Jasteys_SoD_Tweakpack_v11.1_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Jasteys_SoD_Tweakpack)**
 - DLC_Merger_v1.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-DlcMerger)**
+- Improved Archer Kit v4.1 **[Not added to the mod](https://github.com/Argent77/A7-ImprovedArcher)**
 
 ## TEXT REVISIONS AND UPDATED COMPLETED
 - Skip_Chateau_Irenicus_v3.2_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-SkipChateauIrenicus)**
@@ -16,10 +17,9 @@ A compilation of all my translations, revisions and text updates into spanish in
 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.60a BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
-- Improved Archer Kit v4.1 **[Not added to the mod](https://github.com/Argent77/A7-ImprovedArcher)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- ...
+- The Tweaks Anthology
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
 - [Ascension](https://github.com/InfinityMods/Ascension)
