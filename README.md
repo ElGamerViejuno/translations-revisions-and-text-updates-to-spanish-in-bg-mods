@@ -16,7 +16,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.60a BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
+- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.70 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - The Tweaks Anthology
