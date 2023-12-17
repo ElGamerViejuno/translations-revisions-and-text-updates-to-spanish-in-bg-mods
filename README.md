@@ -14,15 +14,15 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Endless_BG1_v18_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/EndlessBG1)**
 - Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
+- Sword Coast Stratagems v35.4 SPANISH translation **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.70 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- Sword Coast Stratagems v35.1 SPANISH translation
+- Soon starting with [Ascension](https://github.com/InfinityMods/Ascension)
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
-- [Ascension](https://github.com/InfinityMods/Ascension)
 - [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
 - [The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
