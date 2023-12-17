@@ -20,7 +20,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.70 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- Soon starting with [Ascension](https://github.com/InfinityMods/Ascension)
+- Soon maybe starting with [Ascension](https://github.com/InfinityMods/Ascension)
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
 - [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
