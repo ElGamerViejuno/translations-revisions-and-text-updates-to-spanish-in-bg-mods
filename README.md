@@ -15,7 +15,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
 - Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Sword_Coast_Stratagems_v35.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
-- Ascension_v2.0.26_SPANISH_translation.rar **[Not added to the mod]([https://github.com/Gibberlings3/SwordCoastStratagem](https://github.com/InfinityMods/Ascension)**
+- Ascension_v2.0.26_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagem](https://github.com/InfinityMods/Ascension)**
 - 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.70 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
