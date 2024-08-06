@@ -18,7 +18,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Ascension_v2.0.26_SPANISH_translation.rar **[Officially added to the mod](https://github.com/InfinityMods/Ascension)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.70 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
+- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - Next revision and upgrade translation maybe [The Tweaks Anthology](https://github.com/Gibberlings3/Tweaks-Anthology)
