@@ -16,7 +16,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Sword_Coast_Stratagems_v35.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Ascension_v2.0.26_SPANISH_translation.rar **[Officially added to the mod](https://github.com/InfinityMods/Ascension)**
-- The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/Tweaks-Anthology)**()
+- The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/Tweaks-Anthology)**
 
 ## FULL TRANSLATIONS IN PROGRESS
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
