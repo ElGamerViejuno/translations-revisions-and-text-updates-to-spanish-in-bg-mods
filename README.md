@@ -24,9 +24,9 @@ A compilation of all my translations, revisions and text updates into spanish in
 - TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
+- Next revision and upgrade translation maybe [Quest Pack (BG2)](https://www.pocketplane.net/quest-pack/)
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
+- [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
-- [Quest Pack (BG2)](https://www.pocketplane.net/quest-pack/)
