@@ -21,7 +21,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - The Lure of the Sirine's Call v16.4 SPANISH revised and updated translation.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
+- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - Next revision and upgrade translation maybe [Quest Pack (BG2)](https://www.pocketplane.net/quest-pack/)
