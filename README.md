@@ -16,7 +16,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Sword_Coast_Stratagems_v35.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Ascension_v2.0.26_SPANISH_translation.rar **[Officially added to the mod](https://github.com/InfinityMods/Ascension)**
-- The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/Tweaks-Anthology)**
+- The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Added to the master](https://github.com/Gibberlings3/Tweaks-Anthology)**
 - Bubbs-Spell-Menu-Extended v5.0.3 SPANISH revised translation.rar **[Officially added to the mod](https://github.com/Bubb13/Bubbs-Spell-Menu-Extended)**
 - The Lure of the Sirine's Call v16.4 SPANISH revised and updated translation.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)**
 
