@@ -2,6 +2,7 @@
 A compilation of all my translations, revisions and text updates into spanish in Baldur's Gate mods (and Siege of Dragonspear expansion).
 
 ## FULL TRANSLATIONS COMPLETED
+- TRADUCCIÓN BALDUR'S GATE SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 - The_Boareskyr_Bridge_Scene_v5_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene)**
 - Road_to_Discovery_v1.3_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Road_To_Discovery_for_SoD)**
 - Another_Fine_Hell_Version_ALPHA_230415_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Another_Fine_Hell)**
@@ -19,14 +20,17 @@ A compilation of all my translations, revisions and text updates into spanish in
 - The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Added to the master](https://github.com/Gibberlings3/Tweaks-Anthology)**
 - Bubbs-Spell-Menu-Extended v5.0.3 SPANISH revised translation.rar **[Officially added to the mod](https://github.com/Bubb13/Bubbs-Spell-Menu-Extended)**
 - The Lure of the Sirine's Call v16.4 SPANISH revised and updated translation.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)**
+- Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://www.pocketplane.net/quest-pack/)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
+- Call of the Lost Goddess v2.01 **[More info here](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- Next revision and upgrade translation maybe [Quest Pack (BG2)](https://www.pocketplane.net/quest-pack/)
+- Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
 - [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
+- [Crucible](https://www.morpheus-mart.com/crucible)
+- [Loretakers]([https://www.morpheus-mart.com/crucible](https://www.baldurs-gate.de/index.php?resources/loretakers.68/)
