@@ -33,4 +33,4 @@ A compilation of all my translations, revisions and text updates into spanish in
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
 - [Crucible](https://www.morpheus-mart.com/crucible)
-- [Loretakers]([https://www.morpheus-mart.com/crucible](https://www.baldurs-gate.de/index.php?resources/loretakers.68/)
+- [Loretakers](https://www.baldurs-gate.de/index.php?resources/loretakers.68/)
