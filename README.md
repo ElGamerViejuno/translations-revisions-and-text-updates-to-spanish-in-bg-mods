@@ -2,7 +2,7 @@
 A compilation of all my translations, revisions and text updates into spanish in Baldur's Gate mods (and Siege of Dragonspear expansion).
 
 ## FULL TRANSLATIONS COMPLETED
-- TRADUCCIÓN BALDUR'S GATE SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA ElGamerViejuno.rar **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
+- TRADUCCIÓN BALDUR'S GATE SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA **[More info here](https://github.com/ElGamerViejuno/translation-siege-of-dragonspear-into-spanish)**
 - The_Boareskyr_Bridge_Scene_v5_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene)**
 - Road_to_Discovery_v1.3_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Road_To_Discovery_for_SoD)**
 - Another_Fine_Hell_Version_ALPHA_230415_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/Another_Fine_Hell)**
