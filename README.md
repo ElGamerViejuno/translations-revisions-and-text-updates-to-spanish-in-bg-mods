@@ -23,7 +23,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://www.pocketplane.net/quest-pack/)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- **[Call of the Lost Goddess v2.01](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
+- **[Call of the Lost Goddess](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)???
