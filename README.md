@@ -20,7 +20,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - The_Tweaks_Anthology_v17_unreleased_SPANISH_translation_by_ElGamerViejuno.rar **[Added to the master](https://github.com/Gibberlings3/Tweaks-Anthology)**
 - Bubbs-Spell-Menu-Extended v5.0.3 SPANISH revised translation.rar **[Officially added to the mod](https://github.com/Bubb13/Bubbs-Spell-Menu-Extended)**
 - The Lure of the Sirine's Call v16.4 SPANISH revised and updated translation.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)**
-- Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://www.pocketplane.net/quest-pack/)**
+- Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/QuestPack)**
 
 ## FULL TRANSLATIONS IN PROGRESS
 - **[Call of the Lost Goddess](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
