@@ -10,6 +10,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - DLC_Merger_v1.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-DlcMerger)**
 - Improved_Archer_Kit_v4.1_SPANISH_translation **[Officially added to the mod](https://github.com/Argent77/A7-ImprovedArcher)**
 - Call_of_the_Lost_Goddess_v2.2_SPANISH_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
+- Crucible_v3.2_SPANISH_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://www.morpheus-mart.com/crucible)**
 
 ## TEXT REVISIONS AND UPDATED COMPLETED
 - Skip_Chateau_Irenicus_v3.2_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-SkipChateauIrenicus)**
@@ -24,7 +25,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/QuestPack)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- [Crucible](https://www.morpheus-mart.com/crucible)
+- Next full translation maybe [Throne of the Mad God](https://github.com/AciferBG/Throne-of-the-Mad-God)???
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)???
