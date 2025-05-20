@@ -34,4 +34,5 @@ A compilation of all my translations, revisions and text updates into spanish in
 - [Jarl's Adventure Pack (by Ychap)](https://github.com/Ychap/JA-AdventurePack)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
-- [Loretakers](https://www.baldurs-gate.de/index.php?resources/loretakers.68/)
+- [Loretakers](https://github.com/AciferBG/Loretakers)
+- [Dark Tidings](https://github.com/AciferBG/Dark-Tidings)
