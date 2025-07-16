@@ -31,7 +31,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)???
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
-- [Jarl's Adventure Pack (by Ychap)](https://github.com/Ychap/JA-AdventurePack)
+- [Jarl's Adventure Pack (by Ychap)](https://github.com/Gitjas/JA-AdventurePack)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
 - [Loretakers](https://github.com/AciferBG/Loretakers)
