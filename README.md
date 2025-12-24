@@ -16,6 +16,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Skip_Chateau_Irenicus_v3.2_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-SkipChateauIrenicus)**
 - Endless_BG1_v18_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/EndlessBG1)**
 - BG1_Mini_Quests_And_Encounters_v26.1_SPANISH_REVISED_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
+. BG1_Mini_Quests_And_Encounters_v30_UPDATED_SPANISH_TRANSLATION_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/Gibberlings3/BG_Quests_And_Encounters)**
 - Sword_Coast_Stratagems_v34.3_SPANISH_translation.rar **[Not added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Sword_Coast_Stratagems_v35.4_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Gibberlings3/SwordCoastStratagems)**
 - Ascension_v2.0.26_SPANISH_translation.rar **[Officially added to the mod](https://github.com/InfinityMods/Ascension)**
