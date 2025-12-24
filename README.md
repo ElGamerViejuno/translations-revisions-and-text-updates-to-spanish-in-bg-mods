@@ -25,13 +25,12 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/QuestPack)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- Next full translation maybe [Throne of the Mad God](https://github.com/AciferBG/Throne-of-the-Mad-God)???
+- Next full translation maybe [Jarl's Adventure Pack (by Ychap)](https://github.com/Gitjas/JA-AdventurePack)???
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
 - Next revision and upgrade translation maybe [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)???
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
-- [Jarl's Adventure Pack (by Ychap)](https://github.com/Gitjas/JA-AdventurePack)
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
 - [Loretakers](https://github.com/AciferBG/Loretakers)
