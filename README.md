@@ -24,7 +24,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Bubbs-Spell-Menu-Extended v5.0.3 SPANISH revised translation.rar **[Officially added to the mod](https://github.com/Bubb13/Bubbs-Spell-Menu-Extended)**
 - The Lure of the Sirine's Call v16.4 SPANISH revised and updated translation.rar **[Officially added to the mod](https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call)**
 - Quest Pack v3.5 SPANISH revised and full complete translation by ElGamerViejuno.rar **[Not added to the mod](https://github.com/Pocket-Plane-Group/QuestPack)**
-- Call_of_the_Lost_Goddess_v2.5_revised_and updated_spanish_translation_by_ElGamerViejuno.rar **[Not added to the mod](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
+- Call_of_the_Lost_Goddess_v2.5_revised_and updated_spanish_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
 
 ## FULL TRANSLATIONS IN PROGRESS
 - Next full translation is [Jarl's Adventure Pack (by Ychap)](https://github.com/Gitjas/JA-AdventurePack)
