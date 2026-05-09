@@ -35,4 +35,4 @@ A compilation of all my translations, revisions and text updates into spanish in
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
 - [BG1 Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub)
 - [Unfinished Business (BG2)](https://github.com/Pocket-Plane-Group/UnfinishedBusiness)
-- [Dark Tidings](https://github.com/AciferBG/Dark-Tidings)
+- ¿All Acifer mods texts full revision?
