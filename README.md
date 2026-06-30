@@ -28,10 +28,10 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Call_of_the_Lost_Goddess_v2.5_revised_and updated_spanish_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
 
 ## FULL TRANSLATIONS IN PROGRESS
-- ¿¿¿???
+- ???
 
 ## REVISIONS AND UPDATES OF TEXTS IN PROGRESS
-- ¿¿¿???
+- ???
 
 ## OTHER MODS I PLAN TO TRANSLATE/REVISE/UPDATE INTO SPANISH IN THE FUTURE
 - [BG1 NPC Project](https://github.com/Gibberlings3/BG1NPC)
