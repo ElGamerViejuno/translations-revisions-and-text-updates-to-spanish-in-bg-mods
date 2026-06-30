@@ -11,6 +11,7 @@ A compilation of all my translations, revisions and text updates into spanish in
 - Improved_Archer_Kit_v4.1_SPANISH_translation **[Officially added to the mod](https://github.com/Argent77/A7-ImprovedArcher)**
 - Call_of_the_Lost_Goddess_v2.2_SPANISH_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://github.com/AciferBG/Call-of-the-Lost-Goddess)**
 - Crucible_v3.2_SPANISH_translation_by_ElGamerViejuno.rar **[Officially added to the mod](https://www.morpheus-mart.com/crucible)**
+- Jarl's Adventure Pack v1.0 spanish translation by ElGamerViejuno **[Not added to the mod](https://github.com/Gitjas/JA-AdventurePack)**
 
 ## TEXT REVISIONS AND UPDATED COMPLETED
 - Skip_Chateau_Irenicus_v3.2_SPANISH_translation.rar **[Officially added to the mod](https://github.com/Argent77/A7-SkipChateauIrenicus)**
